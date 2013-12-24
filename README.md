@@ -5,7 +5,7 @@ Redactor WYSIWYG HTML Editor Georgian Language Pack
 
 #Usage
 
-`
+```
 <script src="js/ge.js"></script>
 <script>
 $(function() {
@@ -14,7 +14,7 @@ $(function() {
   });
 };
 </script>
-`
+```
 
 #Demo
 
