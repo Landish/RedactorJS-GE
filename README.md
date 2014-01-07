@@ -10,7 +10,8 @@
 
 #Usage
 
-Simply include `langs/ge.js` file on your page after loading `redactor.js` and set `lang` option to `ge` in your Redaqtor settings.
+1. Include `langs/ge.js` file on your HTML page after loading `redactor.js`. 
+2. Set `lang` option to `'ge'` in your Redactor settings.
 
 ```
 <script src="js/redactor/redactor.js"></script>
