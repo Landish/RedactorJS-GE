@@ -19,7 +19,7 @@ $.Redactor.opts.langs['ge'] = {
 	header5: 'სათაური 5',
 	bold:  'მსხვილი',
 	italic: 'დახრილი',
-	fontcolor: 'ფონტის ფერი',
+	fontcolor: 'ტექსტის ფერი',
 	backcolor: 'ფონის ფერი',
 	unorderedlist: 'დაუნომრავი სია',
 	orderedlist: 'დანომრილი სია',
