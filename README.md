@@ -1,6 +1,6 @@
 #RedactorJS-GE
 
-Redactor WYSIWYG HTML Editor Georgian Language Pack
+[Redactor WYSIWYG HTML Editor](http://imperavi.com/redactor/) Georgian Language Pack
 
 
 #Usage
